@@ -26,9 +26,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Esan-8055&style=flat-square&color=2188ff&label=Profile+views"/>
 
-I am a Pre-Final-year Information Technology student (Expected 2027) with a deep passion for problem-solving and pioneering first-principle thinking. Driven by purpose and fueled by the challenge of finding solutions, I have a strong foundation in Full Stack Web Development, Machine Learning, and IoT. 
+I am a Final-year Information Technology student (Expected 2027) with a deep passion for problem-solving and pioneering first-principle thinking. Driven by purpose and fueled by the challenge of finding solutions, I have a strong foundation in Full Stack Web Development, Machine Learning, and IoT. 
 
-As the Co-Founder & Lead Developer at HYBIX Student Startup, I've led diverse tech teams covering frontend, backend, AI, and deployment, building scalable products from scratch with the commitment to making a positive impact through technology.
+As a Lead Developer at HYBIX Student Startup, I've led diverse tech teams covering frontend, backend, AI, and deployment, building scalable products from scratch with the commitment to making a positive impact through technology.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related videos, fueling my curiosity.
 
