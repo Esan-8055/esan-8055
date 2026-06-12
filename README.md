@@ -16,7 +16,7 @@
 
   <!-- ⌨️ TYPING ANIMATION (Switched to stable Heroku server) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=+Exploring+the+code+universe...;+Full+Stack+Developer+%7C+React+·+Node+·+MongoDB;+AI+%26+ML+Engineer+%7C+TensorFlow+·+Scikit-learn;📡+IoT+Systems+%7C+Arduino+·+Embedded+C;🏢+Co-Founder+%40+HYBIX+Student+Startup;🎓+Mentored+347%2B+Engineers+%26+Counting;+Turning+caffeine+into+production+code" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=+Exploring+the+code+universe...; +Full+Stack+Developer+%7C+React+·+Node+·+MongoDB;+AI+%26+ML+Engineer+%7C+TensorFlow+·+Scikit-learn;📡+IoT+Systems+%7C+Arduino+·+Embedded+C;🏢+Co-Founder+%40+HYBIX+Student+Startup;🎓+Mentored+347%2B+Engineers+%26+Counting;+Turning+caffeine+into+production+code" alt="Typing SVG"/>
   </a>
 </div>
 
