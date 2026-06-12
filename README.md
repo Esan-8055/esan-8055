@@ -2,21 +2,21 @@
 <!-- SPACE THEME GITHUB PROFILE — Jegatheesan B -->
 
 <div align="center">
-  <!-- 🌌 ANIMATED SPACE HEADER GIF (Hosted online to fix the broken image error!) -->
+  <!--  ANIMATED SPACE HEADER GIF (Hosted online to fix the broken image error!) -->
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 15px; object-fit: cover; height: 250px;" alt="Space Header"/>
 
   <br/><br/>
 
-  <!-- 👑 MASSIVE PURE WHITE NAME WITH ANIMATION -->
+  <!--  MASSIVE PURE WHITE NAME WITH ANIMATION -->
   <h1 align="center">
-    🌌 
+    
     <a href="https://github.com/Esan-8055"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=JEGATHEESAN+B" alt="JEGATHEESAN B" /></a>
-    🚀
+    
   </h1>
 
   <!-- ⌨️ TYPING ANIMATION (Switched to stable Heroku server) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=🌌+Exploring+the+code+universe...;🚀+Full+Stack+Developer+%7C+React+·+Node+·+MongoDB;🤖+AI+%26+ML+Engineer+%7C+TensorFlow+·+Scikit-learn;📡+IoT+Systems+%7C+Arduino+·+Embedded+C;🏢+Co-Founder+%40+HYBIX+Student+Startup;🎓+Mentored+347%2B+Engineers+%26+Counting;⚡+Turning+caffeine+into+production+code" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=+Exploring+the+code+universe...;+Full+Stack+Developer+%7C+React+·+Node+·+MongoDB;+AI+%26+ML+Engineer+%7C+TensorFlow+·+Scikit-learn;📡+IoT+Systems+%7C+Arduino+·+Embedded+C;🏢+Co-Founder+%40+HYBIX+Student+Startup;🎓+Mentored+347%2B+Engineers+%26+Counting;+Turning+caffeine+into+production+code" alt="Typing SVG"/>
   </a>
 </div>
 
